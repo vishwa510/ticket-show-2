@@ -1,0 +1,3 @@
+CACHE_TYPE = 'RedisCache'
+CACHE_REDIS_HOST = 'localhost'
+CACHE_REDIS_PORT = 6379
